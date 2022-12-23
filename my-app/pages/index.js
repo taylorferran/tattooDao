@@ -26,10 +26,9 @@ export default function Home() {
         transition={{ duration: 4 }}
       
       >
-      <h1>tattoDao</h1>
-
-      <b>litepaper</b>
  
+    
+
       </motion.div >
 
       </main>
